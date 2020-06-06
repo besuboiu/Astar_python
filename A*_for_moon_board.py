@@ -1,6 +1,5 @@
 from math import sqrt
 from collections import deque
-import time
 
 # Physical constraints (* 20cm is the actual size)
 HOLD_RANGE = 10
@@ -19,7 +18,7 @@ D_UNSTABLE = 95
 C_2LIMBS = 120
 C_UNSTABLE = 500
 C_FREE_HAND = 250
-C_FREE_FOOT = 20 # 20
+C_FREE_FOOT = 125 # 20
 C_HAND_MATCH = 100
 C_FOOT_MATCH = 300
 C_CROSSING = 100
