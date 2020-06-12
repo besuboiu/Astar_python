@@ -36,7 +36,7 @@ Left Hand: E18, Right Hand: E18, Left Foot: C16, Right Foot: D10
 # Usage
 ```bash
 git clone https://github.com/besuboiu/astar_python
-cd examples
+cd astar_python/
 python A\*_for_moon_board.py
 ```
  
